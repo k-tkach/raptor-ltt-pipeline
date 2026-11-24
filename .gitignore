@@ -1,0 +1,8 @@
+data/*.tre
+data/*.nex
+data/*.csv
+data/*.xlsx
+output/
+.Rhistory
+.RData
+.Rproj.user/
